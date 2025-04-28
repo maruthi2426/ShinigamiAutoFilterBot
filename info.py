@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'The0TTs_Bot')
 API_ID = int(environ.get('API_ID', '24306431'))
 API_HASH = environ.get('API_HASH', '697764b557544a35955b179949065741')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7604949986:AAHlN49vcTn2rq7W4NMGO9hRVAYkpSLPvwI")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7604949986:AAFLBrLf5sQEVvYEk76ol33MYxi2JofDibc")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
@@ -90,7 +90,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'liucytudftukxctky') # 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+q_z-VsAKMEw2OTll')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TheOTTs')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TheOTTs') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TheOTTs') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/shahtabahmed')
 
 # True Or False
